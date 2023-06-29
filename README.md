@@ -3,15 +3,13 @@ IITISoC'23 Web team project for the night canteen . Problem Statement is- Descri
 
 • Allow users to conveniently place their food orders through the website, pro- viding them with a streamlined ordering process.
 
-• Develop a website that effectively addresses key challenges faced in the night
+• Develop a website that effectively addresses key challenges faced in the night canteen, aiming to provide practical solutions and enhance the overall experi- ence for users.
 
-canteen, aiming to provide practical solutions and enhance the overall experi- ence for users.
-
-team members contributed:-
-TEJA RAM,
-SUMIT JANGIR,
-TARUN KUMAR PATEL,
-DHANANJAY SINGH
+Team members contributed:-
+TEJA RAM (https://github.com/tejjanee),
+SUMIT JANGIR 
+TARUN KUMAR PATEL (https://github.com/git-tarunkp),
+DHANANJAY SINGH (https://github.com/Dhanajaysingh)
 
 
 
