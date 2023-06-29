@@ -7,7 +7,7 @@ IITISoC'23 Web team project for the night canteen . Problem Statement is- Descri
 
 Team members contributed:-
 TEJA RAM (https://github.com/tejjanee),
-SUMIT JANGIR 
+SUMIT JANGIR (https://github.com/sumitjangir683),
 TARUN KUMAR PATEL (https://github.com/git-tarunkp),
 DHANANJAY SINGH (https://github.com/Dhanajaysingh)
 
