@@ -8,9 +8,9 @@ IITISoC'23 Web team project for the night canteen . Problem Statement is- Descri
 canteen, aiming to provide practical solutions and enhance the overall experi- ence for users.
 
 team members contributed:-
-TEJA RAM
-SUMIT JANGIR
-TARUN KUMAR PATEL
+TEJA RAM,
+SUMIT JANGIR,
+TARUN KUMAR PATEL,
 DHANANJAY SINGH
 
 
