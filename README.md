@@ -12,7 +12,7 @@ TARUN KUMAR PATEL (https://github.com/git-tarunkp),
 DHANANJAY SINGH (https://github.com/Dhanajaysingh)
 
 In this ptoject we have used html , css and java script to create frontend of night canteen and other food shops present in college.
-this responsive frontend.
+
 to use this project we can simply download 'night canteen' folder in our device ,and run home.html using any browser. 
 
 
